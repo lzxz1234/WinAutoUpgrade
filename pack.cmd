@@ -1,0 +1,1 @@
+go build -o upgrade.exe -ldflags "-s -w" ./client

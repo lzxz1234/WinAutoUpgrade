@@ -1,0 +1,5 @@
+upgrade_url: http://127.0.0.1:80/check.json
+run_exe: test.exe
+run_cmd: cmd /C test.exe
+major: 1
+minor: 1
